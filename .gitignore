@@ -1,0 +1,19 @@
+# venv
+.venv/
+
+# IDE
+.vscode/
+
+# Build
+bin/
+obj/
+
+# Temporary
+temp/
+logs/
+
+# Secrets
+.env
+.env.*
+secrets.json
+credentials.json

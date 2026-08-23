@@ -1,0 +1,15 @@
+interface:
+  display_name: long task docs
+  short_description: Create or maintain prompt.md, implement.md, and documentation.md
+    for long-running software implementation tasks. Use when a repository needs consistent
+    project requirements, autonomous implementation rules, and implementation-accurate
+    documentation, or when those files have drifted and need to be aligned.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
